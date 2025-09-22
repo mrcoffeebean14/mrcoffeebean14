@@ -25,9 +25,7 @@ Email Me 👉 ✉️ **singhmps14@gmail.com** For Collaboration/Project or Anyth
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hero0p&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hero0p&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hero0p&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![mrcoffeebean14's Stats](https://github-readme-stats.vercel.app/api?username=mrcoffeebean14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hero0p&theme=radical&no-frame=false&no-bg=true&margin-w=4)
