@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **singhmps14@gmail.com** For Collaboration/Project or Anyth
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mail at: singhmps14@gmail.com
 - 😄 **Pronouns:** He/Him.
-- ⚡ **Fun fact:** Watch One Piece.
+- ⚡ **Fun fact:** Watch One Piece
 
 
 ## 🌐 Socials:
