@@ -92,6 +92,12 @@ Open to SWE internships, AI/ML roles, and startup opportunities. Relocating is f
 ---
 
 ## Featured Projects
+### [Adapt-RAG](https://github.com/mrcoffeebean14/Adapt-RAG.git) — Agentic RAG Chatbot
+> LangGraph · FastAPI · Qdrant · MongoDB · Streamlit · Groq
+
+An agentic RAG system with a 7-node LangGraph orchestration that classifies every query into one of three routing paths — indexed documents, general knowledge, or real-time web search — and picks the retrieval strategy accordingly. Document chunking, relevance grading, and automatic query rewriting feed into a Qdrant vector store. FastAPI backend with async I/O, MongoDB-backed multi-session chat history, deployed with multi-worker Uvicorn and a Streamlit frontend for PDF/TXT upload and live chat.
+
+---
 
 ### [TAILORAI](https://github.com/mrcoffeebean14/tailorai) — Multi-Agent Resume Tailoring System &nbsp;·&nbsp; [🔗 Live Demo](https://tailorai-xi.vercel.app/)
 > LangGraph · FastAPI · Next.js · Docker · OpenAI / Claude / Gemini / Groq / Ollama
