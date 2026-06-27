@@ -1,7 +1,6 @@
 <div align="center">
 
 # Mandeep Singh
-
 **Software Engineer · Full Stack · AI/ML · Competitive Programmer**
 
 [![Email](https://img.shields.io/badge/singhmps14@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singhmps14@gmail.com)
